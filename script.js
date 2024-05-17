@@ -39,4 +39,6 @@ completedTask.addEventListener('click', (e) => {
         e.target.parentElement.remove();
     }
 
+})
+
 });
